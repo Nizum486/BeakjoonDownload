@@ -3,6 +3,8 @@ BeakjoonDownload
 
 python으로 작성한 백준 문제 다운로더입니다.
 
+풀었던 문제들을 저장 할 수 있습니다.
+
 selenium과 clipboard 모듈이 필요합니다.
 
     pip install selenium
